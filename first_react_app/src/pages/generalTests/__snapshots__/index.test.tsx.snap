@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checks main index for sameness 1`] = `
+<main
+  className="main"
+>
+  <div
+    className="description"
+  >
+    <p>
+      Get started by editing 
+      <code
+        className="code"
+      >
+        src/pages/index.tsx
+      </code>
+    </p>
+    <div>
+      <a
+        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        By
+         
+        <img
+          alt="Vercel Logo"
+          className="vercelLogo"
+          data-nimg="1"
+          decoding="async"
+          height={24}
+          onError={[Function]}
+          onLoad={[Function]}
+          src="/vercel.svg"
+          style={
+            {
+              "color": "transparent",
+            }
+          }
+          width={100}
+        />
+      </a>
+    </div>
+  </div>
+  <div>
+     my test component what is going on here where is the text 
+  </div>
+  <div>
+     my test component what is going on here where is the text 
+  </div>
+  <div>
+     my test component what is going on here where is the text 
+  </div>
+  <div>
+     my test component what is going on here where is the text 
+  </div>
+  <div>
+     my test component what is going on here where is the text 
+  </div>
+  <div
+    className="center"
+  >
+    <img
+      alt="Next.js Logo"
+      className="logo"
+      data-nimg="1"
+      decoding="async"
+      height={37}
+      onError={[Function]}
+      onLoad={[Function]}
+      src="/next.svg"
+      style={
+        {
+          "color": "transparent",
+        }
+      }
+      width={180}
+    />
+    <div
+      className="thirteen"
+    >
+      <img
+        alt="13"
+        data-nimg="1"
+        decoding="async"
+        height={31}
+        onError={[Function]}
+        onLoad={[Function]}
+        src="/thirteen.svg"
+        style={
+          {
+            "color": "transparent",
+          }
+        }
+        width={40}
+      />
+    </div>
+  </div>
+</main>
+`;
